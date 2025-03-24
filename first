@@ -1,0 +1,20 @@
+Git is a distributed versioncontrol system(VCS).
+
+Git is a tool that helps multiple people work on the same code project or documents by tracking and managing changes to the files.
+
+VCS - every time you make a change,whether it's adding a sentence to a document or altering a line of code,the VCS records and saves the outcome.
+
+why VCS 
+Backup adn restore : Files are safe against accident losses or mistakes.
+
+collaboration:multiple people can work on the same project simultaniously
+
+branching and merging:Users can diverage from the main base of code,experiencing and then bring changes back in line without losing work
+
+tracking changes:you see specific changes made and by whom.
+
+what is git commit?
+a git commit is a command in Git that captures a snapshot of the project's currently staged changes,creating a permanent record in the repository's history.
+
+
+a remote repository refers to a version of your project that resides on a network server or a hosted repository on the internet

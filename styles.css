@@ -1,0 +1,11 @@
+div{
+    /* text-align: center; */
+    display: flex;                /* Enable Flexbox */
+            justify-content: center;      /* Center horizontally */
+            align-items: center;          /* Center vertically */
+            height: 100vh;                /* Full viewport height */
+
+}
+h1{
+    color:red;
+}
